@@ -1,2 +1,2 @@
 # Machine-Learning-by-ZZH
-exercise in Machine Learning by ZZH
+exercises in Machine Learning by ZZH
